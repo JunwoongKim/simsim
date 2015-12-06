@@ -1,5 +1,5 @@
 <?
 
-echo "index입니다\n";
+echo "index입니다.";
 
 ?>
